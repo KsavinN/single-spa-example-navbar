@@ -1,5 +1,5 @@
 {
-  "name": "@pccw/single-spa-poc-navbar",
+  "name": "@example/single-spa-example-navbar",
   "scripts": {
     "start": "webpack-dev-server",
     "start:standalone": "webpack-dev-server --env.standalone",

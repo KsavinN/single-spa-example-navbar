@@ -3,8 +3,8 @@ const singleSpaDefaults = require("webpack-config-single-spa-react-ts");
 
 module.exports = (webpackConfigEnv, argv) => {
   const defaultConfig = singleSpaDefaults({
-    orgName: "pccw",
-    projectName: "single-spa-poc-navbar",
+    orgName: "example",
+    projectName: "single-spa-example-navbar",
     webpackConfigEnv,
     argv,
   });
